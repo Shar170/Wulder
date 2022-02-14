@@ -1,14 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Wulder Project Web-Site!
 
-You can use the [editor on GitHub](https://github.com/Shar170/Wulder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can see russian language page on the [Русская Верися сайта](https://shar170.github.io/Wulder/index_ru.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Idea of project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+The idea of the game is that you are the future god of Asgard, but before you become one, you will have to pass the test of war. Kill enemies, survive by collecting souls, watch your health and try not to miss!
+```
+Video demonstrations: [Link](url)
 
-```markdown
+markdown
 Syntax highlighted code block
 
 # Header 1
@@ -24,7 +26,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
